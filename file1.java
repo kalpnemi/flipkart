@@ -20,5 +20,14 @@ everything ok
 
 Git Revert command:
 -----------------------
+> git revert <commitid> 
+
+# to check the alias name of mapped remote repository
+-----------------------------------------------------
+> git remote -v
+
+# To remove the current alias name:
+
+> git remote remove <aliasname>
 
 
