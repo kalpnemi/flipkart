@@ -13,5 +13,3 @@ working a > stagging > local repo
 
 
    this is my shell script file.
-
-   
