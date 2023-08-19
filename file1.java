@@ -27,7 +27,14 @@ Git Revert command:
 > git remote -v
 
 # To remove the current alias name:
-
+------------------------------------------
 > git remote remove <aliasname>
+
+# To rename the alias of remote repo:
+----------------------------------------
+
+> git remote rename <old alias> <new alias>
+
+
 
 
