@@ -20,5 +20,5 @@ everything ok
 
 Git Revert command:
 -----------------------
-
+git status
 
