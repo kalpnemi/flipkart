@@ -10,3 +10,6 @@ old file
 --------------
 working a > stagging > local repo
    git commit -a -m "message"
+
+
+   this is my shell script file.
