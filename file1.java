@@ -18,4 +18,8 @@ git add emp*
 
 everything ok
 
+Git Revert command:
+-----------------------
+
+
 
