@@ -35,6 +35,19 @@ Git Revert command:
 
 > git remote rename <old alias> <new alias>
 
+# to remove the file from the working area:
+---------------------------------------------
+> git clean -n
 
+here n -> review the filename
 
+----------------------------------------------------
+IDE
+----------
+elipse
+myeclips
+netbean
+nodejs -> node_module
 
+.password - > if you don't want to upload any unwanted or important file on remote repo.
+In that case we will use .gitignore file
