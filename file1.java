@@ -63,3 +63,5 @@ to create the new branch
 To switch to other branch
 
 > git checkout <branch name>
+
+now developer code avaible here
