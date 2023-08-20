@@ -51,3 +51,15 @@ nodejs -> node_module
 
 .password - > if you don't want to upload any unwanted or important file on remote repo.
 In that case we will use .gitignore file
+
+
+# Git Branching:
+------------------
+to check the no. of branch avaible
+> git branch
+to create the new branch
+> git branch <branch name>
+
+To switch to other branch
+
+> git checkout <branch name>
