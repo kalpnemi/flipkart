@@ -83,3 +83,10 @@ sjfwkdhfjdshfj
 djfhsdkjfhdskjfh
 sdjfhshgfhj
 ==============================
+we are develping some functionality.
+
+stash@{0}
+stash@{1}
+stash@{2}
+
+git stash save "employee portal"
