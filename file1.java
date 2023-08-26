@@ -112,6 +112,10 @@ git push fk tag <tagname>
 3. if you have multiple tags and you want to push in one short to remote repo:
  > git push <alias> --tags
 
+4. To delete the tag
+----------------------
+git tag -d <tagname>
+
 
 
 
