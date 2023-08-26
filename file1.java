@@ -86,3 +86,29 @@ sjfwkdhfjdshfj
 djfhsdkjfhdskjfh
 sdjfhshgfhj
 ==============================
+
+Topic: Git Tag:
+----------------
+It is immutable. 
+branch: during development
+tag : after production release.
+
+flipkartv1.0.0
+branch: we can able to modify 
+tag: once you created, can;t modified.
+
+Q: on which branch usually we will create the tag?
+Answer: master
+ 
+1. To create the Tag:
+------------------------
+> git tag <tagname>
+
+2. To Push the tag:-
+----------------------------
+
+git push tag <tagname>
+
+
+
+
