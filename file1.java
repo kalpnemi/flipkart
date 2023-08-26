@@ -116,6 +116,8 @@ git push fk tag <tagname>
 ----------------------
 git tag -d <tagname>
 
-
-
+----------------------------------------------
+Git Stash:
+---------------------------
+thadjkhewflwefewfkjewhf
 
