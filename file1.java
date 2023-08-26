@@ -107,7 +107,10 @@ Answer: master
 2. To Push the tag:-
 ----------------------------
 
-git push tag <tagname>
+git push fk tag <tagname>
+
+3. if you have multiple tags and you want to push in one short to remote repo:
+ > git push <alias> --tags
 
 
 
